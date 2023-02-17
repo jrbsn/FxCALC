@@ -4,3 +4,5 @@
 Program that returns the estimated opening force along with a couple other recovery outputs given a few simple input parameters
 
 ![image](https://user-images.githubusercontent.com/98776682/219722766-a2a1f824-2362-4af4-8ca4-21917c800179.png)
+
+Future goal: remake a more robust java version that includes multiple types of simulations and calculations, basically an amateur rocketry modelling suite from takeoff to landing
